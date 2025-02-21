@@ -16,11 +16,10 @@ filesets:
     - rtl/include/cv32e40x_pkg.sv
     - rtl/include/if_xif.sv
     - rtl/include/obi_pkg.sv
+    - rtl/include/xif_pkg.sv
     - rtl/include/quadrilatero_instr_pkg.sv
     - rtl/include/quadrilatero_pkg.sv
-    - rtl/include/xif_pkg.sv
     - rtl/quadrilatero.sv
-    - rtl/quadrilatero_csr.sv
     - rtl/quadrilatero_decoder.sv
     - rtl/quadrilatero_deskewer.sv
     - rtl/quadrilatero_dispatcher.sv
